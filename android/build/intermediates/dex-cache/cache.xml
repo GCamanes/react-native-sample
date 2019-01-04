@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5a61f17cd72e20aa4323cbf5f909b7c609619275">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.0.1_2917f8f6fae74daf0fd6cc31b6babf28ec1eea4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a5da49455b397ecd7f495b3b22cbfc3d0bdb7da0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d9c4402c3057225d80cbbbec52154e7a25b0ebdf">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.0.1_ecd9dce6bc155099ec70507a41b33c512719a516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_bd485e11ce1276d8bf0fb7593f441a1a8282628c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_258eead244b1d6972c54bb1d400d90cd2b1522f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-3.4.1_e1532edf3b4ca2493b284ac1f91edb96d8a8d46f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6b4608978c1fd749c604ee2619c05b16d68d61f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2668e49e4e31c7d451b76a36009b902bf44e0d70">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.0.1_b08d5e1c9c0d8e78ff7cece1a6b53d997b78a153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.45.1_a286f1cc5b5d4dc01164db803cb403fe041283f2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_0a2f7962ad039e259ee64c2a2bb73b96f2d9be21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_579bfe60d7b23eb2a4458407eeef9bdc1662fc27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.4.1_4f0573c551a7fef6931c0f40a9fa66ad964741ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="050f688115ea65a0292d8483a6ffe6bcdab1e2ef">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.0.1_10a4fb0df4a990069ce4c43738ef354d6178aa96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_bb0a46aa7cb60a9a971c9686ed58ac057a8a2f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.45.1/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_45baf787ddd0d04874741b1fa6e569847a3042b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/okio-1.9.0_7111d497ab51eef2c7a3e892c2ae0c49d96d1319.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="cf836a435a496eb22ff2aa69aa1e619462549f81">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.0.1_d5d07911564b486126efd677a7fe598c0bdcd367.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_762f8334e53e67231e045d032ac2389d8ef53fc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_cd878d637fa09d78a1f4991c39afd883e9403149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2a484e280bc018929a1d2608191565d4eb5aac4c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_916bc317539a661dfadf9c611e7a856e2f7cf3ce.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ba9b39366b723ccff6359d1117332968e98a4aca">
+        <dex dex="/Users/formation9/ReactNative/react-native-sample/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.0.1_63cb5c793a3143458676e011e4e293ca5b699d3e.jar" />
+    </item>
+
+</items>
